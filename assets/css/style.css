@@ -1,0 +1,30 @@
+body { 
+  background: url(../images/videoblocks-bckgrd.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-blend-mode:overlay;
+}
+
+h1 {
+	font-family: 'Press Start 2P';
+	font-size: 40px;
+	text-align: center;
+	color: red;
+	}
+
+.row {
+	padding-bottom: 40px;
+}
+
+#question,#choices{
+	font-family: 'PT Sans';
+	text-align: center;
+}
+
+.main-content {
+	background-color: white;
+	padding: 150px;
+	text-align: center;
+}
